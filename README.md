@@ -3,6 +3,6 @@
 ##### Navjot Singh
 ##### 200154743
 
-[Post-commit hook video link](https://www.youtube.com/watch?v=1EiJyXasfsM)  
+[Post-commit hook video link](https://www.youtube.com/watch?v=tciJHhIodBo)  
 
 Git Screenshot: ![img](Git.png)
