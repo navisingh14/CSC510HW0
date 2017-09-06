@@ -1,7 +1,9 @@
 # CSC 510 HW0
 
-### Name:                                                           ### Student Id:
+### Name:                                                          
 Navjot Singh 
+
+### Student Id:
 200154743
 ### Unity Id: 
 nsingh9@ncsu.edu
